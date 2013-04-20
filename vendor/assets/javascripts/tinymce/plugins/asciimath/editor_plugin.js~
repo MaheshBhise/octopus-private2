@@ -2,8 +2,8 @@
  * ASCIIMath Plugin for TinyMCE editor
  *   based on TinyMCE ASCIIMath plugin written by David Lippman 
  *
- * @author RochÃ© Compaan
- * @copyright Copyright Â© 2011 RochÃ© Compaan
+ * @author Roché Compaan
+ * @copyright Copyright © 2011 Roché Compaan
  *
  */
 
@@ -238,7 +238,7 @@
         getInfo : function() {
             return {
                 longname : 'Asciimath plugin',
-                author : 'RochÃ© Compaan',
+                author : 'Roché Compaan',
                 authorurl : 'http://github.com/rochecompaan',
                 infourl : '',
                 version : "1.0"
